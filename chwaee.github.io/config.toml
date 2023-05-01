@@ -1,0 +1,4 @@
+baseURL = 'https://chwaee.github.io'
+languageCode = 'en-us'
+title = 'Chwaees Blog'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
