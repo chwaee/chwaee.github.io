@@ -1,3 +1,9 @@
+---
+title: "My First Post"
+date: 30 April 2023
+draft: false
+---
+
 # Hello World
 
 Hello! Please visit my About page if you'd like to get more information on me, but the TLDR is that I'm a computer generalist.  I've worked in support, pro-serv, QA, DevOps, CloudOps and development roles.  I'm here to start sharing my experiences, and hopefully make this a better world.  Positivity is always at the front of my mind, unless you get me started on tangents of tech debt, or spell my name incorrectly in an email.  
